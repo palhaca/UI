@@ -1,0 +1,43 @@
+{
+    "title": "UI Lovelace Minimalist",
+    "config": {
+        "step": {
+            "user": {
+                "title": "UI Lovelace Minimalist Settings",
+                "description": "",
+                "data": {
+                    "language": "Idioma",
+                    "sidepanel_enabled": "Permite a criação de uma entrada no painel lateral da Dashboard.",
+                    "sidepanel_icon": "Icon do Painel Lateral",
+                    "sidepanel_title": "Titulo do painel lateral",
+                    "theme": "Tema",
+                    "include_other_cards": "Incluir os recursos das personalizações que dependem dele."
+                }
+            }
+        },
+        "abort": {
+            "single_instance_allowed": "Apenas uma configuração de UI Lovelace Minimalist é permitida.",
+            "not_setup": "UI Lovelace Minimalist não esta configurada."
+        }
+    },
+    "options": {
+        "step": {
+            "user": {
+                "title": "UI Lovelace Minimalist Definições",
+                "description": "",
+                "data": {
+                    "language": "Idioma",
+                    "sidepanel_enabled": "Permite a criação de uma entrada no painel lateral da Dashboard.",
+                    "sidepanel_icon": "Icon do Painel Lateral",
+                    "sidepanel_title": "Titulo do painel lateral",
+                    "theme": "Tema",
+                    "include_other_cards": "Incluir os recursos das personalizações que dependem dele."
+                }
+            }
+        },
+        "abort": {
+            "single_instance_allowed": "Apenas uma configuração de UI Lovelace Minimalist é permitida.",
+            "not_setup": "UI Lovelace Minimalist não esta configurada."
+        }
+    }
+}
